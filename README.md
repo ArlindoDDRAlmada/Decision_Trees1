@@ -2,7 +2,7 @@
 
 Please open the file: Compulsory Task 1.ipynb
 
-In this task, we will continue with previous code.
+Tasks:
 
 Create a Bagged, Random Forest, and Boosted tree for the titanic dataset in the same way that you created a regular Classification Tree.
 
